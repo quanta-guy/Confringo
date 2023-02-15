@@ -28,12 +28,12 @@ const int sensorPin = 5; // Connect your button to pin #13
 
 // WiFi
 // Make sure to update this for your own WiFi network!
-const char* ssid = "ACT108669130463";
-const char* wifi_password = "21514130";
+const char* ssid = "moto g(9) play_2364";
+const char* wifi_password = "VK2020wifi";
 
 // MQTT
 // Make sure to update this for your own MQTT Broker!
-const char* mqtt_server = "192.168.0.117";
+const char* mqtt_server = "192.168.76.177";
 const char* mqtt_topic = "PIRMotionSensor";
 // The client id identifies the ESP8266 device. Think of it a bit like a hostname (Or just a name, like Greg).
 const char* clientID = "John";
