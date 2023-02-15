@@ -1,8 +1,6 @@
-
-![Logo](https://github.com/quanta-guy/Confringo/blob/master/Assets/Image%20Assets/ConfringoLogin.png)
-
-
-
+<p align="center" width="100%">
+    <img width="33%" src="[https://i.stack.imgur.com/RJj4x.png](https://github.com/quanta-guy/Confringo/blob/master/Assets/Image%20Assets/LoginPageLogo.png)"> 
+</p>
 Welcome to Confringo; an intuitive user-friendly Home Device management solution. Make your homes smart with a minimal expense.
 
 
