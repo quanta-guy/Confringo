@@ -48,6 +48,6 @@ Welcome to Confringo; an intuitive user-friendly Home Device management solution
 - [@Shri Raghavi]()
 
 ## Product Demo
-- [Brief Presentation of Product]()
+- [Brief Presentation of Product](https://github.com/quanta-guy/Confringo/blob/master/Presenetation/Confringo.pptx)
 - [Demo Video]()
 - [WebApp](https://confringo.web.app/#/)
