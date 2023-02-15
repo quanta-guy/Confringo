@@ -48,5 +48,5 @@ Welcome to Confringo; an intuitive user-friendly Home Device management solution
 - [@Shri Raghavi]()
 
 ##Product Demo
-- Brief Presentation of Product()
-- Demo Video()
+- [Brief Presentation of Product]()
+- [Demo Video]()
