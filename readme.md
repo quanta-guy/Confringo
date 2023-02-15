@@ -1,5 +1,5 @@
 
-![Logo](https://github.com/quanta-guy/Confringo/blob/master/Assets/Image%20Assets/ConfringoLogin.png)
+                        ![Logo](https://github.com/quanta-guy/Confringo/blob/master/Assets/Image%20Assets/ConfringoLogin.png)
 
 
 
