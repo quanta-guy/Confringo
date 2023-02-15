@@ -47,4 +47,7 @@ Welcome to Confringo; an intuitive user-friendly Home Device management solution
 - [@Sanjay B](https://www.instagram.com/_s_a_n_d_y_0_0_7_/?next=%2F)
 - [@Shri Raghavi]()
 
-
+## Product Demo
+- [Brief Presentation of Product]()
+- [Demo Video]()
+- [WebApp](https://confringo.web.app/#/)
