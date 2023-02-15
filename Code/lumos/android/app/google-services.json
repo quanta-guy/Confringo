@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "62395291752",
+    "project_id": "flicker-60df8",
+    "storage_bucket": "flicker-60df8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62395291752:android:7893da3baafa82c7c343dd",
+        "android_client_info": {
+          "package_name": "com.example.lumos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62395291752-sbld156pcn8u9ki809753nmsn0o4goho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXCDieUvPSqbpGlavFgKj9quAS_Jo62R4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62395291752-sbld156pcn8u9ki809753nmsn0o4goho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
