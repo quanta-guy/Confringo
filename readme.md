@@ -46,12 +46,11 @@ Welcome to Confringo; an intuitive user-friendly Home Device management solution
 - [@Vishnukanth.S](https://www.github.com/quanta-guy)
 
 
-
-
-Thank you for your interest in the Home Automation Solution Demo. We look forward to making your connected home smarter and more convenient. Stay tuned for our exciting future updates!
-
-
 ## Product Demo
 - [Brief Presentation of Product](https://github.com/quanta-guy/Confringo/blob/master/Presenetation/Confringo.pptx)
 - [Demo Video](https://github.com/quanta-guy/Confringo/blob/master/Product%20Demo/Product%20Demo.mp4)
 - [WebApp](https://confringo.web.app/#/)
+
+
+##
+Thank you for your interest in the Home Automation Solution Demo. We look forward to making your connected home smarter and more convenient. Stay tuned for our exciting future updates!
