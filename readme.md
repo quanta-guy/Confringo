@@ -43,7 +43,12 @@ Welcome to Confringo; an intuitive user-friendly Home Device management solution
 - Response Optimization 
 ## Authors
 
-- [@Vishnukanth.S](https://www.github.com/quanta-guy)  
+- [@Vishnukanth.S](https://www.github.com/quanta-guy)
+
+
+
+
+Thank you for your interest in the Home Automation Solution Demo. We look forward to making your connected home smarter and more convenient. Stay tuned for our exciting future updates!
 
 
 ## Product Demo
