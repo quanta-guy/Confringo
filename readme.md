@@ -1,7 +1,7 @@
 <p align="center" width="100%">
     <img src="https://github.com/quanta-guy/Confringo/blob/master/Assets/Image%20Assets/ConfringoLogin.png"> 
 </p>
-Welcome to Confringo; an intuitive user-friendly Home Device management solution. Make your homes smart with a minimal expense.
+Welcome to Confringo; an intuitive user-friendly Home Device management solution. Make your homes smart with a minimal expense.Welcome to Confringo, your intuitive and user-friendly home device management solution. Transform any device into a smart device affordably and effortlessly, making your home smarter than ever before.
 
 
 
